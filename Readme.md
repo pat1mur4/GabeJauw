@@ -1,4 +1,6 @@
-Hello! I am a student-organizer from Grand Rapids, Michigan. Empowering communities to shape their environment is the aim of my work, regardless if it is a high school a neighborhood I want to see the people of the place, run the place, together! 
+## About Me
+
+Hello! I am a student-organizer from Grand Rapids, Michigan. Empowering communities to shape their environment is the aim of my work, regardless if it is a high school a neighborhood I want to see the people of the place, run the place! 
 
 ## Skills
 
