@@ -1,9 +1,3 @@
-# Gabe Jauw
-
-Student-Union Organizer | Student Association for Leadership and Transformation (Urban Core Collective)
-
-## Summary
-
 Hello! I am a student-organizer from Grand Rapids, Michigan. Empowering communities to shape their environment is the aim of my work, regardless if it is a high school a neighborhood I want to see the people of the place, run the place, together! 
 
 ## Skills
@@ -23,7 +17,6 @@ Hello! I am a student-organizer from Grand Rapids, Michigan. Empowering communit
 	-  Google Suite (Docs, Sheets, Slides, Drive, etc.)
 	-  Office & Excel
 	-  Canva & Adobe Illustrator
-
 ## Experience
 
 **Urban Core Collective** - 2024-25'   
@@ -31,7 +24,6 @@ Education Justice Intern
 - Co-Founded West Michigan's first high school Student-Union, creating a platform for students to participate in and advocate for change in their schools and learning environments.
 	- Utilized a collaborative design process that taught students how to build and operate an organization through the creation of their own organization.
 * Established a working relationship between the Student-Union and the area Teacher-Union (the Grand Rapids Educators Association)
-
 ## Projects
 
 **Project 1** (link to project site or GitHub repo)  
