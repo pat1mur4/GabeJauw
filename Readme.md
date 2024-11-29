@@ -29,8 +29,6 @@
 **Urban Core Collective** | 2024-25'   
 Education Justice Intern
 - Co-Founded West Michigan's first high school Student-Union, creating a platform for students to participate in and advocate for change in their schools and learning environments.
-	- Utilized a collaborative design process that taught students how to build and operate an organization through the creation of their own organization.
-* Established a working relationship between the Student-Union and the area Teacher-Union (the Grand Rapids Educators Association)
 
 **Self-Employed** | 2021-Present
 Computer Assembly and Support
@@ -39,8 +37,8 @@ Computer Assembly and Support
 
 ### Education
 
-**High School** | CA Frost Environmental High School | 2022 - 2025
-	 3.5 GPA, Dual-Enrolled @ Grand Rapids Community College
+**High School** | CA Frost Environmental High School | Class of 25'| 3.5 GPA |
+	 Dual-Enrolled @ GR Community College
 **CompTIA A+ Certification** - Currently in progress, Set to complete by June.
 
 
