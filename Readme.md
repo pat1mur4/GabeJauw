@@ -17,6 +17,7 @@
 - Worked with customers to find both hardware and software solutions to a range of problems and needs. 
   
 ### Technical Skills
+
 	-  Python
 	-  Google Suite (Docs, Sheets, Slides, Drive, etc.)
 	-  Office
@@ -37,8 +38,8 @@ Computer Assembly and Support
 
 ### Education
 
-**High School** | CA Frost Environmental High School | Class of 25'| 3.5 GPA |
-	 Dual-Enrolled @ GR Community College
-**CompTIA A+ Certification** - Currently in progress, Set to complete by June.
+- **High School** | CA Frost Environmental High School | Class of 25'| 3.5 GPA |
+	- Dual-Enrolled @ GR Community College
+- **CompTIA A+ Certification** - Currently in progress, Set to complete by June.
 
 
