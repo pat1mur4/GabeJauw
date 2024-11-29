@@ -38,7 +38,8 @@ Computer Assembly and Support
 
 ### Education
 
-- **High School** | CA Frost Environmental High School | Class of 25'| 3.5 GPA |
+- **High School** | 2025
+	- 3.5 GPA 
 	- Dual-Enrolled @ GR Community College
 - **CompTIA A+ Certification** - Currently in progress, Set to complete by June.
 
